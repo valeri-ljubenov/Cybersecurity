@@ -1,7 +1,9 @@
 # Terminology
 
 ## Threat
-### Definition: Potential occurrence of an undesirable event that can eventually damage and disrupt the operational and functional activities of an organisation
+
+### Definition:
+Potential occurrence of an undesirable event that can eventually damage and disrupt the operational and functional activities of an organisation
 
 ---
 ## Threat sources:
@@ -33,6 +35,14 @@
 * Gray Hats - individuals who work both offensively and defensively
 * Suicide Hackers - individuals who want to bring down the critical infrastructure without caring for consequences
 * Script Kiddies - unskilled individuals runnng tools and script written by other hackers
+* Cyber Terrorists
+* State-Sponsored Hackers
+* Hacktivist
+* Hacker Teams
+* Industrial Spies
+* Insiders
+* Criminal Syndicates
+* Organized Hackers
 
 ### Attributes:
 * Internal - trusted insider with access to organisation's network, systems, physical resources
@@ -43,4 +53,15 @@
 
 ---
 ## Threat vectors
-### Definition: 
+### Definition:
+A medium through which an attacker gains access to a system by exploiting identified vulnerabilities
+* Direct access
+* Removable media
+* Wireless
+* Email
+* Cloud
+* Ransomware/malware
+* Supply chain
+* Business partners
+
+---
